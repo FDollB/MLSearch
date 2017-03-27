@@ -1,0 +1,13 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333; }
+
+header {
+  background-color: yellow;
+  height: 54px; }
+  header .search-bar {
+    display: inline; }
+    header .search-bar .nav-logo {
+      position: relative; }
+
+/*# sourceMappingURL=styles.css.map */
